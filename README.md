@@ -37,24 +37,6 @@ The project demonstrates strong Object-Oriented Programming (OOP) concepts while
 
 ---
 
-## 🖥 Application Preview
-
-> *(Add screenshots here after uploading them)*
-
-### Home Screen
-
-![Home](images/home.png)
-
-### Sell Item
-
-![Sell Item](images/sell-item.png)
-
-### Wishlist
-
-![Wishlist](images/wishlist.png)
-
----
-
 ## 🏗 Project Structure
 
 ```
@@ -231,9 +213,6 @@ Open the project using **Qt Creator**.
 ## 👨‍💻 Author
 
 **Nutan Shinde**
-
-- GitHub: https://github.com/nutanshinde1
-- LinkedIn: *(Add your LinkedIn URL)*
 
 ---
 
