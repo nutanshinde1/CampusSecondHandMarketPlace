@@ -195,7 +195,7 @@ This project helped in understanding:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/CampusSecondHandMarketplace.git
+git clone https://github.com/nutanshinde1/CampusSecondHandMarketplace.git
 ```
 
 ### Open Project
